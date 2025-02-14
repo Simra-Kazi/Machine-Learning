@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
   Click Predict to get the result.
   The app will display whether the person is predicted to have heart disease or not.
 ## Results & Performance : 
-  The model achieved an accuracy of XX% (based on evaluation).
+  The model achieved an accuracy of (based on evaluation).
   Confusion matrix, ROC curve, and other performance metrics are available for analysis.
 ## Future Improvements : 
   Enhance feature selection for better accuracy.
