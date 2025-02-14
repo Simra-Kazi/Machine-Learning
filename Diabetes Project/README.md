@@ -35,8 +35,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/diabetes-prediction.git
-   cd diabetes-prediction
+   git clone https://github.com/Simra-Kazi/Machine-Learning.git
    
 2. Install dependencies:
   pip install -r requirements.txt
