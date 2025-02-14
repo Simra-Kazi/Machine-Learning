@@ -47,20 +47,20 @@ To run this project locally, follow these steps:
 3. Run the Streamlit app:
    streamlit run app.py
 
-Usage : 
+##Usage : 
   Open the Streamlit web app.
   Enter the required medical details in the input fields.
   Click Predict to get the result.
   The app will display whether the person is predicted to have heart disease or not.
-Results & Performance : 
+##Results & Performance : 
   The model achieved an accuracy of XX% (based on evaluation).
   Confusion matrix, ROC curve, and other performance metrics are available for analysis.
-Future Improvements : 
+##Future Improvements : 
   Enhance feature selection for better accuracy.
   Integrate deep learning models.
   Deploy the app on cloud services like Heroku or AWS
-Contributors
+##Contributors
   Contributions are welcome! Feel free to fork the repository and submit pull requests
-License
+##License
   This project is licensed under the MIT License.
 
