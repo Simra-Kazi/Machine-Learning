@@ -52,8 +52,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Hollywood-Movie-Recommendation-System.git
-   cd Hollywood-Movie-Recommendation-System
+   git clone https://github.com/Simra-Kazi/Machine-Learning/edit/main/Movies%20recommendation%20Project
+   cd Movie recommendation Project
    ```
 
 2. Install dependencies:
