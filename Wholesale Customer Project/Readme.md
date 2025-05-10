@@ -64,8 +64,7 @@ The model can be deployed using **Streamlit** to provide an interactive interfac
 - Deploy as a web or mobile application
 
 ## Contributors
-Contributions are welcome! Feel free to fork the repository and submit pull requests
-
+Contributions are welcome! 
 ## License
 This project is licensed under the MIT License.
 
