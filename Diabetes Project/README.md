@@ -58,7 +58,7 @@ To run this project locally, follow these steps:
   Deploy the app on cloud services like Heroku or AWS
   
 ## Contributing
-  Contributions are welcome! Feel free to fork the repository and submit pull requests
+  Contributions are welcome! 
   
 ## License
 This project is licensed under the MIT License.
