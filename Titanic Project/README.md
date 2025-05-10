@@ -58,6 +58,6 @@ Improve feature engineering and data preprocessing.
 Deploy the app on cloud platforms like Heroku or AWS.
 Add more interactive visualizations.
 ## Contributors
-Contributions are welcome! Feel free to fork the repository and submit pull requests
+Contributions are welcome! 
 ## License
 This project is licensed under the MIT License.
