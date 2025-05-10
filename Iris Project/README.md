@@ -51,7 +51,7 @@ Improve model accuracy with advanced techniques.
 Deploy the app on cloud platforms like Heroku or AWS.
 Implement real-time image-based classification.
 ## Contributors
-Contributions are welcome! Feel free to fork the repository and submit pull requests
+Contributions are welcome! 
 ## License
 This project is licensed under the MIT License.
 
