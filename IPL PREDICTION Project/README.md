@@ -59,7 +59,7 @@ The dataset contains historical IPL match data, including:
 - Deploy the model as an API.
 
 ## Contributors
-Contributions are welcome! Feel free to fork the repository and submit pull requests
+Contributions are welcome! 
 
 ## License
 This project is licensed under the MIT License.
